@@ -1,0 +1,8 @@
+[gd_scene format=3 uid="uid://co3ojar3pot2o"]
+
+[ext_resource type="Texture2D" uid="uid://edw7iah6om2i" path="res://Grass_Sample.webp" id="1_vq8aa"]
+
+[node name="GrassSample" type="Sprite2D" unique_id=36417757]
+position = Vector2(1790, 1508)
+scale = Vector2(5.039773, 9.368751)
+texture = ExtResource("1_vq8aa")
